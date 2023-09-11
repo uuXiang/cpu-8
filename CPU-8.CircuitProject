@@ -2731,4 +2731,13 @@
 		<lc:X2>30</lc:X2>
 		<lc:Y2>38</lc:Y2>
 	</lc:Wire>
+	<lc:TextNote>
+		<lc:TextNoteId>e8ed6c12-f08f-4ee1-85da-cd2c1f4f5ca1</lc:TextNoteId>
+		<lc:LogicalCircuitId>05b6cd18-2ebb-400f-b667-e69bc9f53e79</lc:LogicalCircuitId>
+		<lc:X>34</lc:X>
+		<lc:Y>36</lc:Y>
+		<lc:Width>21</lc:Width>
+		<lc:Height>5</lc:Height>
+		<lc:Note>&lt;FlowDocument TextAlignment="Left" PagePadding="5,0,5,0" AllowDrop="True" NumberSubstitution.CultureSource="User" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;&lt;Paragraph&gt;&lt;Run xml:lang="zh-cn"&gt;减法：按位取反再加一&lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run xml:lang="zh-cn"&gt;EN连到CI，EN=1，既取反又加一；EN=0，正数相加&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/FlowDocument&gt;</lc:Note>
+	</lc:TextNote>
 </lc:CircuitProject>
